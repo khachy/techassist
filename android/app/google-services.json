@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607021416060",
+    "project_id": "techassist-7b790",
+    "storage_bucket": "techassist-7b790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607021416060:android:070e82eb7c1252017353f9",
+        "android_client_info": {
+          "package_name": "com.example.techassist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcAxwInX5bDK4-l86ai8CPkRIn4HQQh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
